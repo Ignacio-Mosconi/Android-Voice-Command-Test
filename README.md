@@ -1,1 +1,2 @@
-Android-Voice-Command-Test
+# Android Voice Command Test
+This is a simple test project made in <b>Unity</b>, which contains basic speech recognition functionality for the <b>Android</b> platform via a third-party plug-in. For testing purposes, you can download the <i>apk</i> file from here: https://github.com/Ignacio-Mosconi/Android-Voice-Command-Test/releases/download/v1.0/Voice.Command.Test.apk". Beware that the OS version installed must be at least "Lollipop" (API Level 21), and the device must have the <b>Google App</b> enabled and with permission to use its microphone for this application to work properly.
